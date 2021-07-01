@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    introTitle: 'He luuu Nhàn!',
+    introDesc: `Anh có điều này muốn hỏi e nhớ phải trả lời thật lòng nhaaa.`,
+    btnIntro: 'Ok',
+    title: 'Em thích anh có phải không nào ._.',
+    desc: 'Nếu em không trả lời mà thoát ra tức là muốn làm người yêu anh rồi đó nha :v ',
+    btnYes: 'Yêu ơi là yêuuuuuu <333',
+    btnNo: 'Không, Anh mơ à :333',
+    question:'Nói cho anh biết lý do em thích anh đi <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    messDesc: 'Mấy hôm nữa anh qua đón e đi Hồ Tey nhé !.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
